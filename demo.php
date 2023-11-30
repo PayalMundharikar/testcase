@@ -4,7 +4,7 @@
 <body>
 
     <?php
-    echo "my first project...";
+    echo "first project...";
     ?>
 
 </body>
