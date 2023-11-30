@@ -4,7 +4,7 @@
 <body>
 
     <?php
-    echo "added new test";
+    echo "new status.........";
     ?>
 
 </body>
