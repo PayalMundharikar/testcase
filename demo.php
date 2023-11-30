@@ -4,7 +4,7 @@
 <body>
 
     <?php
-    echo "new status.........";
+    echo "new changes...";
     ?>
 
 </body>
