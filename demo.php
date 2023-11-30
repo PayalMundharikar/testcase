@@ -4,7 +4,7 @@
 <body>
 
     <?php
-    echo "new changes...";
+    echo "new file...";
     ?>
 
 </body>
